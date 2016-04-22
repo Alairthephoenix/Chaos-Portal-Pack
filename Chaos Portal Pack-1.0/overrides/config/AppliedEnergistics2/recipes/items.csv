@@ -5093,7 +5093,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Enrichment Device)
+ExtraUtilities:endConstructor:0, QED (Quite Expensive Decoration)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -6853,21 +6853,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Ludicrite Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.buildToolBlock.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Log
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Crusted Taint
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Flesh
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Amber Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Amber Bricks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Warded Glass
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Obsidian Tile
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Thaumium Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Tallow Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Arcane Stone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Arcane Stone Bricks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Rock
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Crusted Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Planks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Twilight Oak Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Canopy Tree Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Mangrove Wood
