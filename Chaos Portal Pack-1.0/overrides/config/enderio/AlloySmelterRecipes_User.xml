@@ -27,5 +27,16 @@
 -->
 
 <AlloySmelterRecipes>
-
+ <recipeGroup name="AppliedEnergistics2" > <!-- Required for EnderIO to function correctly. -->
+	<recipe name="Sky Stone" energyCost="1000" >
+      <input>
+        <itemStack modID="appliedenergistics2" itemName="dustQuartz" />
+        <itemStack oreDictionary="dustCoal" />
+        <itemStack oreDictionary="itemSilicon" />
+      </input>
+      <output>
+        <itemStack modID="appliedenergistics2" itemName="BlockSkyStone" itemMeta="1" exp="0.5" />
+      </output>
+    </recipe>
+ </recipeGroup>
 </AlloySmelterRecipes>
