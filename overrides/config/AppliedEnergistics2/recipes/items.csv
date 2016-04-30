@@ -5168,7 +5168,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quasar Entanglement Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Enrichment Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -10293,18 +10293,6 @@ Forestry:chipsets:1, Enhanced Circuit Board
 Forestry:chipsets:2, Refined Circuit Board
 Forestry:chipsets:3, Intricate Circuit Board
 Forestry:solderingIron, Soldering Iron
-Forestry:thermionicTubes:0, Copper Electron Tube
-Forestry:thermionicTubes:1, Tin Electron Tube
-Forestry:thermionicTubes:2, Bronze Electron Tube
-Forestry:thermionicTubes:3, Iron Electron Tube
-Forestry:thermionicTubes:4, Golden Electron Tube
-Forestry:thermionicTubes:5, Diamantine Electron Tube
-Forestry:thermionicTubes:6, Obsidian Electron Tube
-Forestry:thermionicTubes:7, Blazing Electron Tube
-Forestry:thermionicTubes:9, Emerald Electron Tube
-Forestry:thermionicTubes:10, Apatine Electron Tube
-Forestry:thermionicTubes:11, Lapis Electron Tube
-Forestry:thermionicTubes:12, Ender Electron Tube
 Forestry:carton, Carton
 Forestry:oakStick, Impregnated Stick
 Forestry:woodPulp, Wood Pulp
@@ -10369,30 +10357,6 @@ Forestry:waxCapsuleWater, Water Capsule
 Forestry:refractoryWater, Water Capsule
 Forestry:canLava, Lava Can
 Forestry:refractoryLava, Lava Capsule
-Forestry:beeQueenGE:0, Forest Queen
-Forestry:beeQueenGE:0, Meadows Queen
-Forestry:beeQueenGE:0, Modest Queen
-Forestry:beeQueenGE:0, Tropical Queen
-Forestry:beeQueenGE:0, Wintry Queen
-Forestry:beeQueenGE:0, Marshy Queen
-Forestry:beeDroneGE:0, Forest Drone
-Forestry:beeDroneGE:0, Meadows Drone
-Forestry:beeDroneGE:0, Modest Drone
-Forestry:beeDroneGE:0, Tropical Drone
-Forestry:beeDroneGE:0, Wintry Drone
-Forestry:beeDroneGE:0, Marshy Drone
-Forestry:beePrincessGE:0, Forest Princess
-Forestry:beePrincessGE:0, Meadows Princess
-Forestry:beePrincessGE:0, Modest Princess
-Forestry:beePrincessGE:0, Tropical Princess
-Forestry:beePrincessGE:0, Wintry Princess
-Forestry:beePrincessGE:0, Marshy Princess
-Forestry:beeLarvaeGE:0, Forest Larvae
-Forestry:beeLarvaeGE:0, Meadows Larvae
-Forestry:beeLarvaeGE:0, Modest Larvae
-Forestry:beeLarvaeGE:0, Tropical Larvae
-Forestry:beeLarvaeGE:0, Wintry Larvae
-Forestry:beeLarvaeGE:0, Marshy Larvae
 Forestry:beealyzer, Beealyzer
 Forestry:habitatLocator, Habitat Locator
 Forestry:imprinter, Imprinter
@@ -10424,76 +10388,6 @@ Forestry:apiaristChest, Apiarist's Shirt
 Forestry:apiaristLegs, Apiarist's Pants
 Forestry:apiaristBoots, Apiarist's Shoes
 Forestry:scoop, Scoop
-Forestry:sapling:0, Apple Oak Sapling
-Forestry:sapling:0, Dark Oak Sapling
-Forestry:sapling:0, Silver Birch Sapling
-Forestry:sapling:0, Silver Lime Sapling
-Forestry:sapling:0, Common Walnut Sapling
-Forestry:sapling:0, Sweet Chestnut Sapling
-Forestry:sapling:0, Hill Cherry Sapling
-Forestry:sapling:0, Lemon Sapling
-Forestry:sapling:0, Plum Sapling
-Forestry:sapling:0, Sugar Maple Sapling
-Forestry:sapling:0, Red Spruce Sapling
-Forestry:sapling:0, Mundane Larch Sapling
-Forestry:sapling:0, Bull Pine Sapling
-Forestry:sapling:0, Coast Sequoia Sapling
-Forestry:sapling:0, Giant Sequoia Sapling
-Forestry:sapling:0, Jungle Sapling
-Forestry:sapling:0, Teak Sapling
-Forestry:sapling:0, Ipe Sapling
-Forestry:sapling:0, Kapok Sapling
-Forestry:sapling:0, Myrtle Ebony Sapling
-Forestry:sapling:0, Zebrawood Sapling
-Forestry:sapling:0, Yellow Meranti Sapling
-Forestry:sapling:0, Acacia Sapling
-Forestry:sapling:0, Desert Acacia Sapling
-Forestry:sapling:0, Padauk Sapling
-Forestry:sapling:0, Balsa Sapling
-Forestry:sapling:0, Cocobolo Sapling
-Forestry:sapling:0, Wenge Sapling
-Forestry:sapling:0, Grandidier's Baobab Sapling
-Forestry:sapling:0, Blue Mahoe Sapling
-Forestry:sapling:0, White Willow Sapling
-Forestry:sapling:0, Sipiri Sapling
-Forestry:sapling:0, Papaya Sapling
-Forestry:sapling:0, Date Palm Sapling
-Forestry:sapling:0, White Poplar Sapling
-Forestry:pollenFertile:0, Apple Oak Pollen
-Forestry:pollenFertile:0, Dark Oak Pollen
-Forestry:pollenFertile:0, Silver Birch Pollen
-Forestry:pollenFertile:0, Silver Lime Pollen
-Forestry:pollenFertile:0, Common Walnut Pollen
-Forestry:pollenFertile:0, Sweet Chestnut Pollen
-Forestry:pollenFertile:0, Hill Cherry Pollen
-Forestry:pollenFertile:0, Lemon Pollen
-Forestry:pollenFertile:0, Plum Pollen
-Forestry:pollenFertile:0, Sugar Maple Pollen
-Forestry:pollenFertile:0, Red Spruce Pollen
-Forestry:pollenFertile:0, Mundane Larch Pollen
-Forestry:pollenFertile:0, Bull Pine Pollen
-Forestry:pollenFertile:0, Coast Sequoia Pollen
-Forestry:pollenFertile:0, Giant Sequoia Pollen
-Forestry:pollenFertile:0, Jungle Pollen
-Forestry:pollenFertile:0, Teak Pollen
-Forestry:pollenFertile:0, Ipe Pollen
-Forestry:pollenFertile:0, Kapok Pollen
-Forestry:pollenFertile:0, Myrtle Ebony Pollen
-Forestry:pollenFertile:0, Zebrawood Pollen
-Forestry:pollenFertile:0, Yellow Meranti Pollen
-Forestry:pollenFertile:0, Acacia Pollen
-Forestry:pollenFertile:0, Desert Acacia Pollen
-Forestry:pollenFertile:0, Padauk Pollen
-Forestry:pollenFertile:0, Balsa Pollen
-Forestry:pollenFertile:0, Cocobolo Pollen
-Forestry:pollenFertile:0, Wenge Pollen
-Forestry:pollenFertile:0, Grandidier's Baobab Pollen
-Forestry:pollenFertile:0, Blue Mahoe Pollen
-Forestry:pollenFertile:0, White Willow Pollen
-Forestry:pollenFertile:0, Sipiri Pollen
-Forestry:pollenFertile:0, Papaya Pollen
-Forestry:pollenFertile:0, Date Palm Pollen
-Forestry:pollenFertile:0, White Poplar Pollen
 Forestry:treealyzer, Treealyzer
 Forestry:grafter, Grafter
 Forestry:grafterProven, Proven Grafter
@@ -10503,24 +10397,6 @@ Forestry:ambrosia, Ambrosia
 Forestry:honeyPot, Honey Pot
 Forestry:infuser, Infuser
 Forestry:flutterlyzer, Flutterlyzer
-Forestry:butterflyGE:0, Brimstone Moth
-Forestry:butterflyGE:0, Cabbage White
-Forestry:butterflyGE:0, Brimstone
-Forestry:butterflyGE:0, Citrus Swallowtail
-Forestry:butterflyGE:0, Black Swallowtail
-Forestry:butterflyGE:0, Speckled Wood
-Forestry:serumGE:0, Brimstone Moth
-Forestry:serumGE:0, Cabbage White
-Forestry:serumGE:0, Brimstone
-Forestry:serumGE:0, Citrus Swallowtail
-Forestry:serumGE:0, Black Swallowtail
-Forestry:serumGE:0, Speckled Wood
-Forestry:caterpillarGE:0, Brimstone Moth
-Forestry:caterpillarGE:0, Cabbage White
-Forestry:caterpillarGE:0, Brimstone
-Forestry:caterpillarGE:0, Citrus Swallowtail
-Forestry:caterpillarGE:0, Black Swallowtail
-Forestry:caterpillarGE:0, Speckled Wood
 Forestry:stamps:0, Stamp (1n)
 Forestry:stamps:1, Stamp (2n)
 Forestry:stamps:2, Stamp (5n)
@@ -10948,8 +10824,6 @@ ThermalFoundation:tool.sicklePlatinum, Shiny Sickle
 ThermalFoundation:tool.bowPlatinum, Shiny Reinforced Bow
 ThermalExpansion:wrench:0, Crescent Hammer
 ThermalExpansion:tool.battleWrenchInvar, BattleWrench
-ThermalExpansion:meter:0, Multimeter
-ThermalExpansion:meter:1, Debugger
 ThermalExpansion:igniter, item.thermalexpansion.tool.name
 ThermalExpansion:chiller, item.thermalexpansion.tool.name
 ThermalExpansion:pump, item.thermalexpansion.tool.name
@@ -10969,44 +10843,8 @@ ThermalExpansion:satchel:1, Satchel
 ThermalExpansion:satchel:2, Hardened Satchel
 ThermalExpansion:satchel:3, Reinforced Satchel
 ThermalExpansion:satchel:4, Resonant Satchel
-ThermalExpansion:diagram:0, Schematic
-ThermalExpansion:diagram:1, Redprint
-ThermalExpansion:material:0, Pneumatic Servo
-ThermalExpansion:material:1, Redstone Reception Coil
-ThermalExpansion:material:2, Redstone Transmission Coil
-ThermalExpansion:material:3, Redstone Conductance Coil
-ThermalExpansion:material:16, Signalum Security Lock
-ThermalExpansion:material:512, Sawdust
-ThermalExpansion:material:513, Compressed Sawdust
-ThermalExpansion:material:514, Slag
-ThermalExpansion:material:515, Rich Slag
-ThermalExpansion:material:516, Phyto-Gro
-ThermalExpansion:material:517, Rich Phyto-Gro
-ThermalExpansion:augment:0, Augment: Integrated Servo Mechanism
-ThermalExpansion:augment:1, Augment: Integrated Hopper Apparatus
-ThermalExpansion:augment:16, Augment: Integrated Modular Framework
-ThermalExpansion:augment:32, Augment: Integrated Redstone Circuit
-ThermalExpansion:augment:48, Augment: Transmission Coil Ducting
-ThermalExpansion:augment:49, Augment: Excitation Field Limiter
-ThermalExpansion:augment:64, Augment: Secondary Gearbox
-ThermalExpansion:augment:65, Augment: Flux Linkage Optimization
-ThermalExpansion:augment:66, Augment: CryoCoil Regulator
-ThermalExpansion:augment:80, Augment: Secondary Transmission Coil
-ThermalExpansion:augment:81, Augment: Flux Modulation Booster
-ThermalExpansion:augment:82, Augment: CryoCoil Flux Amplifier
-ThermalExpansion:augment:112, Augment: Secondary Sieve
-ThermalExpansion:augment:113, Augment: Stabilized Frame
-ThermalExpansion:augment:114, Augment: GyroServo Feedback
-ThermalExpansion:augment:128, Augment: Secondary Reception Coil
-ThermalExpansion:augment:129, Augment: Overclocked Modular Gearbox
-ThermalExpansion:augment:130, Augment: Space-Time Flux Unifier
-ThermalExpansion:augment:144, Augment: Nullification Chamber
-ThermalExpansion:augment:256, Augment: Trivection Chamber
-ThermalExpansion:augment:312, Augment: Accelerated Extrusion
-ThermalExpansion:augment:313, Augment: Igneous Catalyst
-ThermalExpansion:augment:314, Augment: Pyroclastic Generation
-ThermalExpansion:florb:0, Florb (Empty§r)
-ThermalExpansion:florb:1, Magmatic Florb (Empty§r)
+ThermalExpansion:florb:0, Invalid Item (Destroy) (Empty§r)
+ThermalExpansion:florb:1, Invalid Item (Destroy) (Empty§r)
 BigReactors:BRIngot:0, Yellorium Ingot
 BigReactors:BRIngot:1, Cyanite Ingot
 BigReactors:BRIngot:2, Graphite Bar
@@ -19670,37 +19508,6 @@ ThermalDynamics:cover:0, Ztyl ⑫ Cover
 ThermalDynamics:cover:0, Ztyl ⑬ Cover
 ThermalDynamics:cover:0, Ztyl ⑭ Cover
 ThermalDynamics:cover:0, Ztyl ⑮ Cover
-ThermalDynamics:cover:0, Machine Frame (Basic) Cover
-ThermalDynamics:cover:0, Machine Frame (Hardened) Cover
-ThermalDynamics:cover:0, Machine Frame (Reinforced) Cover
-ThermalDynamics:cover:0, Machine Frame (Resonant) Cover
-ThermalDynamics:cover:0, Leadstone Energy Cell Frame Cover
-ThermalDynamics:cover:0, Hardened Energy Cell Frame Cover
-ThermalDynamics:cover:0, Redstone Energy Cell Frame (Empty) Cover
-ThermalDynamics:cover:0, Redstone Energy Cell Frame (Full) Cover
-ThermalDynamics:cover:0, Resonant Energy Cell Frame (Empty) Cover
-ThermalDynamics:cover:0, Resonant Energy Cell Frame (Full) Cover
-ThermalDynamics:cover:0, Tesseract Frame (Empty) Cover
-ThermalDynamics:cover:0, Tesseract Frame (Full) Cover
-ThermalDynamics:cover:0, Illuminator Frame Cover
-ThermalDynamics:cover:0, Hardened Glass Cover
-ThermalDynamics:cover:0, Hardened Lumium Glass Cover
-ThermalDynamics:cover:0, White Rockwool Cover
-ThermalDynamics:cover:0, Orange Rockwool Cover
-ThermalDynamics:cover:0, Magenta Rockwool Cover
-ThermalDynamics:cover:0, Light Blue Rockwool Cover
-ThermalDynamics:cover:0, Yellow Rockwool Cover
-ThermalDynamics:cover:0, Lime Rockwool Cover
-ThermalDynamics:cover:0, Pink Rockwool Cover
-ThermalDynamics:cover:0, Gray Rockwool Cover
-ThermalDynamics:cover:0, Light Gray Rockwool Cover
-ThermalDynamics:cover:0, Cyan Rockwool Cover
-ThermalDynamics:cover:0, Purple Rockwool Cover
-ThermalDynamics:cover:0, Blue Rockwool Cover
-ThermalDynamics:cover:0, Brown Rockwool Cover
-ThermalDynamics:cover:0, Green Rockwool Cover
-ThermalDynamics:cover:0, Red Rockwool Cover
-ThermalDynamics:cover:0, Black Rockwool Cover
 ThermalDynamics:retriever:0, Retriever
 ThermalDynamics:retriever:1, Hardened Retriever
 ThermalDynamics:retriever:2, Reinforced Retriever
