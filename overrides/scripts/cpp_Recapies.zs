@@ -11,8 +11,6 @@ recipes.addShaped(<minecraft:saddle>,[
 	[<ore:ingotBronze>, <minecraft:leather>, <ore:ingotBronze>]]);
 	
 recipes.removeShapeless(<EnderIO:itemMaterial:10>);
-recipes.removeShapeless(<OpenComputers:item:111>);
-recipes.addShapeless(<OpenComputers:item:111> * 6, [<chisel:smashingrock>,<ore:gemDiamond>]);
 recipes.addShaped(<EnderIO:itemMaterial:10>,[
 	[<ore:gemDiamond>, <minecraft:cake>, null],
 	[<minecraft:water_bucket>, <minecraft:lava_bucket:*>, null],
