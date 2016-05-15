@@ -15,3 +15,13 @@ recipes.addShaped(<EnderIO:itemMaterial:10>,[
 	[<ore:gemDiamond>, <minecraft:cake>, null],
 	[<minecraft:water_bucket>, <minecraft:lava_bucket:*>, null],
 	[null,null,null]]);
+
+recipes.addShaped(<minecraft:wooden_hoe>,[
+	[<ore:plankWood>, <ore:plankWood>, null],
+	[null, <ore:stickWood>, null],
+	[null, <ore:stickWood>, null]]);
+	
+recipes.addShaped(<minecraft:stone_hoe>,[
+	[<minecraft:cobblestone>, <minecraft:cobblestone>, null],
+	[null, <ore:stickWood>, null],
+	[null, <ore:stickWood>, null]]);

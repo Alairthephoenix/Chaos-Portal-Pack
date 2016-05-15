@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Chaos Portal Pack",
-  "version": "1.0",
+  "version": "1.0.2",
   "author": "legracen",
   "files": [
     {
@@ -422,6 +422,21 @@
     {
       "projectID": 223094,
       "fileID": 2210792,
+      "required": true
+    },
+    {
+      "projectID": 223896,
+      "fileID": 2283267,
+      "required": true
+    },
+    {
+      "projectID": 227564,
+      "fileID": 2226312,
+      "required": true
+    },
+    {
+      "projectID": 223891,
+      "fileID": 2284380,
       "required": true
     }
   ],
